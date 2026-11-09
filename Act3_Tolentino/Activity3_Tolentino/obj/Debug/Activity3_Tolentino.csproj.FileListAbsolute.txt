@@ -1,0 +1,13 @@
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.DashboardForm.resources
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.Properties.Resources.resources
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.RegisterForm.resources
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.SignInForm.resources
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\bin\Debug\sampledb.accdb
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\bin\Debug\Activity3_Tolentino.exe.config
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\bin\Debug\Activity3_Tolentino.exe
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\bin\Debug\Activity3_Tolentino.pdb
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.exe
+C:\Users\joshu\source\repos\Activity3_Tolentino\Activity3_Tolentino\obj\Debug\Activity3_Tolentino.pdb
